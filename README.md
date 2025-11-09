@@ -1,6 +1,6 @@
 # Hey there! I'm Triveni.
 
-**Aspiring Python Full-Stack Developer** | **Tech Explorer**
+** Python Full-Stack Developer** | **Tech Explorer**
 
 ---
 
@@ -8,7 +8,7 @@
 
 -  Passionate **Python Full-Stack Developer** with an interest in backend logic and clean design.
 -  Strong foundation in **Computer Applications** and programming fundamentals.
--  Currently learning **Django,  MySQL, REST APIs, and frontend  (HTML, CSS, JS) and (React js)**.
+-  Expertise in  **Django,  MySQL, REST APIs, and frontend  (HTML, CSS, JS) and (React js)**.
 -  Enjoy building projects like **quiz systems, CRUD apps,full-stack supply chain mechanism**.
 -  Curious learner, exploring new frameworks and technologies.
 
@@ -20,10 +20,10 @@
 Python ,JavaScript, SQL  
 
 **Frameworks & Libraries:**  
-Django , Bootstrap  
+Django , Bootstrap , React js.  
 
 **Databases:**  
-MySQL 
+MySQL,PostgreSQL. 
 
 **Tools:**  
 Git,GitHub, VS Code.
@@ -32,11 +32,9 @@ Git,GitHub, VS Code.
 
 ## 📌 Quick Overview
 
-- 📚 Currently learning: **Full-Stack Development with Python (Django + MySQL +  React)**
-- 👀 Open to: **Entry-level opportunities ** in Python development
+- 📚 **Full-Stack Development with Python (Django + MySQL +  React)**
 - 💬 Ask me about: **Python, MySQL, and beginner-friendly full-stack projects**
-- 📧 How to reach me: **naredlatriveni@gmail.com**
----
+
 
 ## 📊 GitHub Stats
 
